@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 4000px;
+}
+#leenung{
+    position: relative;
+    width: 100%;
+    height: 2000px;
+    background: url(222.PNG);
+    background-attachment: fixed;
+}
+#text{
+    padding: 50px;
+    font-size: 20px;
+}
